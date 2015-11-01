@@ -1,0 +1,19 @@
+Was created to sort out data like this:
+0.00632,18,2.31,0,0.538,6.575,65.2,4.09,1,296,15.3,396.9,4.98,24
+0.02731,0,7.07,0,0.469,6.421,78.9,4.9671,2,242,17.8,396.9,9.14,21.6
+0.02729,0,7.07,0,0.469,7.185,61.1,4.9671,2,242,17.8,392.83,4.03,34.7
+0.03237,0,2.18,0,0.458,6.998,45.8,6.0622,3,222,18.7,394.63,2.94,33.4
+
+into looking like this
+0.00632,18,2.31,0,0.538,6.575,65.2,4.09,1,296,15.3,396.9,4.98,24
+0.02731,0,7.07,0,0.469,6.421,78.9,4.9671,2,242,17.8,396.9,9.14,21.6
+0.02729,0,7.07,0,0.469,7.185,61.1,4.9671,2,242,17.8,392.83,4.03,34.7
+0.03237,0,2.18,0,0.458,6.998,45.8,6.0622,3,222,18.7,394.63,2.94,33.4
+
+Encountered numerous errors with reading file with Scanner before replacing with just BufferedReader. When reading the file, the Scanner would first wipe the file empty before actually reading anything, causing the loop to fail.
+This only happened when the PrintWriter was in the file though, which was strange.
+What was stranger was that it was copy/pasted from another code that worked.
+
+Program will often remove columns only separated by one scpace, this was resolved by "Find and Replace"ing single spaces and replacing them with double spaces.
+
+I could have found a better solution, but I'd already spent more than enough time trying to resolve the Scanner problem.

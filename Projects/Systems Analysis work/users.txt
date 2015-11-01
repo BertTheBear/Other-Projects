@@ -1,0 +1,4 @@
+ADMIN,mike,email@account.net,061-11223344,password,2015-03-27 16:45,2015-04-19 17:06
+MANAGER,denis,denis@email.com,20958720785,denis,2015-04-19 14:40,2015-04-19 17:06
+EMPLOYEE,shaun,shaun@email.net,3984076,shaun,2015-04-19 17:07,2015-04-19 17:07
+CUSTOMER,cust1,email@email.net,2894567,cust1,2015-04-19 17:07,2015-04-19 17:07,address

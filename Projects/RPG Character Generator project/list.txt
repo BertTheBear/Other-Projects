@@ -1,0 +1,10 @@
+races.txt
+adept.txt
+aristocrat.txt
+caster.txt
+commoner.txt
+expert.txt
+warrior.txt
+spells.txt
+weapons.txt
+savedCharacters.txt

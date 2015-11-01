@@ -1,0 +1,11 @@
+BOOK,The Lord of the Rings,The Epic Saga by JRR Tolkien,JRR Tolkien,1234,12.5,0,4,fhwsiwne
+BOOK,The Bible,The Word of God,Matthew Mark Luke and John,37237,5.99,0,12,jEGA7384
+BOOK,The Qur'an,The book of Islam,Muhammed I think,11242,5.99,0,4,gjeriwef
+BOOK,The Very Hungry Caterpillar,He's super hungry,Eric Carle,20,5,0,3,2jfIE84k
+CD,CHOONZ,Some nice tunes on this one,DJ Deejay,46.8,4.5,0,5,fhtUD94k
+CD,Dance CHOONZ,Second album from DJ DeeJay,DJ DeeJay,49.2,5.99,0,3,482057gy
+CD,Bangin' Dance CHOONZ,Latest Album of the greatest songs,DJ DeeJay,53.4,12,0,8,fhauent6
+CD,ABBA Lifetime Collection,Collection of ABBA's greatest hits,ABBA,112.5,21.99,0,2,gDuDiR83
+DVD,The Wind that shakes the Barley,Set during the British occupation of Ireland this details the struggles of some farmers,12,director-man,5.4,0,4,4875hfYT
+DVD,10 Hours of Paint drying,Critically acclaimed from the director who brought you silence,U,Frank Snobb,12.99,0,20,ghEuI7fY
+DVD,I'm running out of DVD names,No Description,PG,Nobody,3.95,0,4,gjsu84H3
